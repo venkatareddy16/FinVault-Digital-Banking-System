@@ -13,7 +13,7 @@
     <meta name="viewport"
           content="width=device-width, initial-scale=1.0">
 
-    <title>Unity Bank - Home</title>
+    <title>FinTrack - Home</title>
 
     <!-- Bootstrap 5.3.3 -->
     <link
@@ -157,7 +157,7 @@
 
                 <h1 class="display-5 fw-bold hero-title">
 
-                    Welcome to Unity Bank
+                    Welcome to FinTrack
 
                 </h1>
 
@@ -220,7 +220,7 @@
 
                         <h2 class="fw-bold mt-3">
 
-                            Unity Bank
+                            FinTrack
 
                         </h2>
 
@@ -580,7 +580,7 @@
 
             <h2 class="fw-bold">
 
-                Why Unity Bank?
+                Why FinTrack?
 
             </h2>
 
